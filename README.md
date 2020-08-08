@@ -7,4 +7,4 @@ demo passer a une autre session
 
 4eme note
 5eme note 
-aussi depuis ma machine local
+aussi depuis ma machine local et cool 
